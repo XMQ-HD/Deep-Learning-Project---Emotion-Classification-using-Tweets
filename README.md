@@ -16,8 +16,8 @@ Emotions are expressed in nuanced ways, which varies by collective or individual
 |trust | 19,222 | #hope,#secure|
 |disgust | 8.934 | #awful,#eww|
 |anticipation | 3,975 | #pumped, #ready|
-|Figure 1. Data statistics of EMOTlON dataset  
-|EMOTlONf1l is a dataset of English Twiter messages with six basic emotions: anger, fear, joy, love, sadness, andsurprise.
+Figure 1. Data statistics of EMOTlON dataset  
+EMOTIONf1l is a dataset of English Twiter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise.
 
 ## Dataset URL: https://huggingface.co/datasets/dair-ai/emotion
 ## Dataset paper: https://aclanthology.org/D18-1404/
