@@ -8,6 +8,7 @@ Emotions are expressed in nuanced ways, which varies by collective or individual
 ## Dataset:
 
 |Emotions | Amount | Hashtags|
+|---------|--------|---------|
 |sadness | 214,454 | #depressed, #grief|
 |joy | 167,027 | #fun, #joy|
 |fear | 102,460 | #fear,#worried|
